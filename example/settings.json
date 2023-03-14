@@ -1,0 +1,6 @@
+{
+    "inflation_dis" : 0.5,
+    "terrain_type" : "slopey",
+    "/terrain_type" : "flat",
+    ".terrain_type" : "default"
+}
